@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "John Daristotle"
+title = "John L. Daristotle"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -62,12 +62,11 @@ enableGitInfo = false
   organizations = [ { name = "Functional Macromolecular Laboratory", url = "http://fml.umd.edu/" }, { name = "Fischell Department of Bioengineering", url = "http://www.bioe.umd.edu/" }, {name = "University of Maryland", url = ""} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  avatar = "CROPPED-mugshot-7-print.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "jldaristotle@msn.com"
+  address = "Room 1124, Kim Engineering Building, 8228 Paint Branch Drive, College Park, MD, 20742, USA"
+  phone = "301-405-3903"
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
