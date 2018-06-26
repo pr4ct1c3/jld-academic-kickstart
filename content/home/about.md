@@ -35,7 +35,7 @@ I am a PhD student in Bioengineering at the University of Maryland's Functional 
 
 Research projects that I have worked on include:
 
-(1) a biodegradable, body temperature responsive polymer surgical sealant  
+(1) a biodegradable, body temperature responsive polymer surgical sealant  # two spaces for line break
 (2) investigating the tissue adhesion of polymer nanocomposites  
 (3) sprayable and antimicrobial wound dressings  
 (4) studying the molecular parameters that affect solution blow spinning
