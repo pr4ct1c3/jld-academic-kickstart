@@ -64,9 +64,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "CROPPED-square.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "jldaristotle@msn.com"
-  address = "Room 1124, Kim Engineering Building  
-  8228 Paint Branch Drive  
-  College Park, MD, 20742, USA"
+  address = "Room 1124, Kim Engineering Building, 8228 Paint Branch Drive, College Park, MD, 20742, USA"
   phone = "301-405-3903"
   skype = ""
   telegram = ""
