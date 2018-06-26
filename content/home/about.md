@@ -31,8 +31,19 @@ weight = 5
 
 # HELLO
 
-John Daristotle is a PhD student in Bioengineering at the University of Maryland's Functional Macromolecular Laboratory. He is advised by Dr. Peter Kofinas, an expert in polymer science and current Professor and Chair of the Department of Chemical and Biomolecular Engineering. 
+I am a PhD student in Bioengineering at the University of Maryland's Functional Macromolecular Laboratory. My advisor is Dr. Peter Kofinas, an expert in polymer science and current Professor and Chair of the Department of Chemical and Biomolecular Engineering. 
 
-She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Research projects that I have worked on include:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+(1) a biodegradable, body temperature responsive polymer surgical sealant
+(2) investigating the tissue adhesion of polymer nanocomposites
+(3) sprayable and antimicrobial wound dressings
+(4) studying the molecular parameters that affect solution blow spinning
+
+I am also interested in drug delivery systems, the immunological response to biomaterials, and hydrogels.
+
+
+
+
+
+
