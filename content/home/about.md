@@ -23,7 +23,7 @@ weight = 5
   year = 2019
 
 [[education.courses]]
-  course = "BS in Chemical Engieering"
+  course = "BS in Chemical Engineering"
   institution = "University of Maryland, College Park"
   year = 2014
  
@@ -35,12 +35,12 @@ I am a PhD student in Bioengineering at the University of Maryland's Functional 
 
 Research projects that I have worked on include:
 
-(1) a biodegradable, body temperature responsive polymer surgical sealant
-(2) investigating the tissue adhesion of polymer nanocomposites
-(3) sprayable and antimicrobial wound dressings
+(1) a biodegradable, body temperature responsive polymer surgical sealant  
+(2) investigating the tissue adhesion of polymer nanocomposites  
+(3) sprayable and antimicrobial wound dressings  
 (4) studying the molecular parameters that affect solution blow spinning
 
-I am also interested in drug delivery systems, the immunological response to biomaterials, and hydrogels.
+I am also interested in drug delivery systems, hydrogels, and the immunological response to biomaterials.
 
 
 

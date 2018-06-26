@@ -11,6 +11,6 @@ list_format = 0
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+image = "img-1963_orig-cropped.jpg"
+caption = "Spring E-MRS 2017"
 +++
