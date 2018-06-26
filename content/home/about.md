@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "Currently pursuing a PhD in Bioengineering"
   institution = "University of Maryland, College Park"
-  year = Expected 2019
+  year = 2019
 
 [[education.courses]]
   course = "BS in Chemical Engieering"
