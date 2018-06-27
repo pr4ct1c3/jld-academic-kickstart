@@ -1,6 +1,6 @@
 +++
 title = "Biodegradable-Polymer-Blend-Based Surgical Sealant with Body-Temperature-Mediated Adhesion"
-date = 2015-09-21T00:00:00
+date = 2015-11-10T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Adam M. Behrens, Nora G. Lee, Brendan J. Casey, Priya Srinivasan, Michael J. Sikorski, John L. Daristotle, Anthony D. Sandler, Peter Kofinas"]
