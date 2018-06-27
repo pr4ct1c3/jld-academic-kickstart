@@ -63,7 +63,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "CROPPED-square.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "jldaristotle@msn.com"
+  email = "jldaristotle (at) msn.com"
   address = "Room 1124, Kim Engineering Building, 8228 Paint Branch Drive, College Park, MD, 20742, USA"
   phone = "301-405-3903"
   skype = ""
@@ -222,25 +222,11 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:test@example.org"
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
-
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "https://scholar.google.com/citations?user=im4igz8AAAAJ&hl=en"
 
 
 # Navigation Links
@@ -255,11 +241,6 @@ enableGitInfo = false
   name = "Home"
   url = "#about"
   weight = 1
-
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
 
 [[menu.main]]
   name = "Posts"
