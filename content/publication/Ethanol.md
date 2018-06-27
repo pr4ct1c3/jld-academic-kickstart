@@ -25,7 +25,7 @@ abstract = "Ethanol is widely used as an additive to gasoline, and production of
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "Ethanol-ToC.jpg"
+image_preview = "Ethanol-ToC.jpeg"
 
 # Is this a selected publication? (true/false)
 selected = false
