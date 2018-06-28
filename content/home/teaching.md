@@ -15,7 +15,8 @@ weight = 60
 
 +++
 
-##Courses:##
+## Courses:
+
 **Design and Processing of Polymers for Biomedical Devices**  
 *Co-Instructor*, Spring 2018  
 Polymer-focused course on the design, characterization, and processing of biomedical devices. Also incorporated a lab and a project on regulatory evaluation and approval processes.
