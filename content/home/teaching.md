@@ -16,16 +16,16 @@ weight = 60
 +++
 
 ##Courses:##
-**Design and Processing of Polymers for Biomedical Devices**
-*Co-Instructor*, Spring 2018
+**Design and Processing of Polymers for Biomedical Devices**  
+*Co-Instructor*, Spring 2018  
 Polymer-focused course on the design, characterization, and processing of biomedical devices. Also incorporated a lab and a project on regulatory evaluation and approval processes.
 
-**Biomaterials**
-*Teaching Assistant*, Spring 2016
+**Biomaterials**  
+*Teaching Assistant*, Spring 2016  
 Applications of materials science principles in bioengineering, emphasizing molecular-level structure and interactions in synthetic and natural biomaterials.
 
-**Biocomputational Methods**
-*Teaching Assistant*, Fall 2015
+**Biocomputational Methods**  
+*Teaching Assistant*, Fall 2015  
 A MATLAB-heavy curriculum on applying mathematical concepts to solve bioengineering problems.
 
 
