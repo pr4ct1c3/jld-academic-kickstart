@@ -23,21 +23,24 @@ Currently serving as a co-advisor to a group of undergraduates beginning a four-
 
 **Various undergraduate students working in the [Functional Macromolecular Laboratory](http://fml.umd.edu/)**
 
+
+
 ## Outreach:
 
-**Society of Hispanic Professional Engineers**
+**Society of Hispanic Professional Engineers**  
 *Career Mentor*
 
-**Bioengineering Graduate Student Society**
-*Volunteer*
+**Bioengineering Graduate Student Society**  
+*Volunteer*  
 Manna Food Center
 
-**Bioengineering Capstone Program**
+**Bioengineering Capstone Program**  
 *Mentor*  
 Senior design project on a laparoscopic surgical sealant deposition device
 
-Bethesda-Chevy Chase High School Internship Program
+Bethesda-Chevy Chase High School Internship Program  
 *Mentor*
+
 
 
 ## Leadership Activities
