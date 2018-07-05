@@ -22,8 +22,8 @@ weight = 70
 Currently serving as a co-advisor to a group of undergraduates beginning a four-year research project on cancer therapeutic delivery using biomaterials.
 
 **Various undergraduate students working in the [Functional Macromolecular Laboratory](http://fml.umd.edu/)**
-  
-  
+<br/>
+<br/>
 
 ## Outreach:
 
@@ -40,8 +40,8 @@ Senior design project on a laparoscopic surgical sealant deposition device
 
 Bethesda-Chevy Chase High School Internship Program  
 *Mentor*
-  
-  
+<br/>
+<br/>
 
 ## Leadership Activities
 
