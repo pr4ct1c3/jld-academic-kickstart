@@ -22,7 +22,6 @@ weight = 70
 Currently serving as a co-advisor to a group of undergraduates beginning a four-year research project on cancer therapeutic delivery using biomaterials.
 
 **10+ undergraduate and high school students working in the [Functional Macromolecular Laboratory](http://fml.umd.edu/)**
-
 <br/>
 <br/>
 
