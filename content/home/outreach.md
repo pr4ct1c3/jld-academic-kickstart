@@ -21,7 +21,8 @@ weight = 70
 *Co-Instructor and Research Advisor for Team TUMOR*  
 Currently serving as a co-advisor to a group of undergraduates beginning a four-year research project on cancer therapeutic delivery using biomaterials.
 
-**Various undergraduate students working in the [Functional Macromolecular Laboratory](http://fml.umd.edu/)**
+**10+ undergraduate and high school students working in the [Functional Macromolecular Laboratory](http://fml.umd.edu/)**
+
 <br/>
 <br/>
 
@@ -31,14 +32,13 @@ Currently serving as a co-advisor to a group of undergraduates beginning a four-
 *Career Mentor*
 
 **Bioengineering Graduate Student Society**  
-*Volunteer*  
-Manna Food Center
+*Volunteer with the Manna Food Center*  
 
 **Bioengineering Capstone Program**  
 *Mentor*  
 Senior design project on a laparoscopic surgical sealant deposition device
 
-Bethesda-Chevy Chase High School Internship Program  
+**Bethesda-Chevy Chase High School Internship Program**  
 *Mentor*
 <br/>
 <br/>
