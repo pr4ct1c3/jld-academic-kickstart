@@ -18,10 +18,10 @@ weight = 70
 ## Research Mentorship:
 
 **University of Maryland Honors College: Gemstone Honors Program**  
-*Co-Instructor and Research Advisor for Team TUMOR*
+*Co-Instructor and Research Advisor for Team TUMOR*  
 Currently serving as a co-advisor to a group of undergraduates beginning a four-year research project on cancer therapeutic delivery using biomaterials.
 
-**
+**Various undergraduate students working in the [Functional Macromolecular Laboratory](http://fml.umd.edu/)**
 
 ## Outreach:
 
@@ -33,7 +33,7 @@ Currently serving as a co-advisor to a group of undergraduates beginning a four-
 Manna Food Center
 
 **Bioengineering Capstone Program**
-*Mentor*
+*Mentor*  
 Senior design project on a laparoscopic surgical sealant deposition device
 
 Bethesda-Chevy Chase High School Internship Program
