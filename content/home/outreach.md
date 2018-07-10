@@ -27,7 +27,7 @@ Currently serving as a co-advisor to a group of undergraduates beginning a four-
 
 ## Outreach:
 
-**Society of Hispanic Professional Engineers**  
+**Society of Hispanic Professional Engineers ([SHPE](http://shpe.umd.edu/))**
 *Career Mentor*
 
 **Bioengineering Graduate Student Society**  
@@ -35,8 +35,7 @@ Currently serving as a co-advisor to a group of undergraduates beginning a four-
 
 **Bioengineering Capstone Program**  
 *Mentor*  
-Helped advise a senior design project on a laparoscopic surgical sealant deposition device
-**SHARK TANK: MOST CREATIVE PROJECT**
+Helped advise a senior design project on a laparoscopic surgical sealant deposition device that won ["SHARK TANK: MOST CREATIVE PROJECT"](http://www.bioe.umd.edu/news/news_story.php?id=9781).
 
 **Bethesda-Chevy Chase High School Internship Program**  
 *Mentor*
