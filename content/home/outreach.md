@@ -27,7 +27,7 @@ Currently serving as a co-advisor to a group of undergraduates beginning a four-
 
 ## Outreach:
 
-**Society of Hispanic Professional Engineers ([SHPE](http://shpe.umd.edu/))**
+**Society of Hispanic Professional Engineers ([SHPE](http://shpe.umd.edu/))**  
 *Career Mentor*
 
 **Bioengineering Graduate Student Society**  
