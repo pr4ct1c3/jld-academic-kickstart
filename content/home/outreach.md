@@ -35,7 +35,8 @@ Currently serving as a co-advisor to a group of undergraduates beginning a four-
 
 **Bioengineering Capstone Program**  
 *Mentor*  
-Senior design project on a laparoscopic surgical sealant deposition device
+Helped advise a senior design project on a laparoscopic surgical sealant deposition device
+**SHARK TANK: MOST CREATIVE PROJECT**
 
 **Bethesda-Chevy Chase High School Internship Program**  
 *Mentor*
