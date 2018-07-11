@@ -12,7 +12,7 @@ event_url = ""
 location = "College Park, Maryland, USA"
 
 # Is this a selected talk? (true/false)
-selected = False
+selected = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
