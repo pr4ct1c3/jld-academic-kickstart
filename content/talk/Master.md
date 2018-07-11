@@ -7,6 +7,7 @@ time_end = 2017-12-01T13:30:00
 abstract = 
 
 abstract_short = 
+event = "University of Maryland Bioengineering Graduate Student Society: Masterclass Series"
 event_url = 
 location = "College Park, Maryland, USA"
 

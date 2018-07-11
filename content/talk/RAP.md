@@ -7,6 +7,7 @@ time_end = 2016-06-01T13:00:00
 abstract = 
 
 abstract_short = 
+event = "University of Maryland Bioengineering Graduate Student Society: RAP"
 event_url = 
 location = "College Park, Maryland, USA"
 
