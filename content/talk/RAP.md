@@ -4,11 +4,11 @@ date = 2017-01-01T00:00:00  # Schedule page publish date.
 title = "Functionalized Polymer Blends for Tissue Adhesion in Surgical Applications"
 time_start = 2016-06-01T12:30:00
 time_end = 2016-06-01T13:00:00
-abstract = 
+abstract = ""
 
-abstract_short = 
+abstract_short = ""
 event = "University of Maryland Bioengineering Graduate Student Society: RAP"
-event_url = 
+event_url = ""
 location = "College Park, Maryland, USA"
 
 # Is this a selected talk? (true/false)
