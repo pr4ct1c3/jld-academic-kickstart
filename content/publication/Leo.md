@@ -36,7 +36,7 @@ selected = false
 #  projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = "https://pubs.acs.org/doi/pdf/10.1021/acs.jpcb.5b06066"
+url_pdf = "https://pubs.rsc.org/en/content/articlepdf/2019/nr/c9nr04624k"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
