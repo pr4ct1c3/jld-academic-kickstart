@@ -19,7 +19,7 @@ weight = 70
 
 **University of Maryland Honors College: Gemstone Honors Program**  
 *Co-Instructor and Research Advisor for Team TUMOR*  
-Currently serving as a co-advisor to a group of undergraduates beginning a four-year research project on cancer therapeutic delivery using biomaterials.
+Served as a co-advisor to a group of undergraduates beginning a four-year research project on cancer therapeutic delivery using biomaterials.
 
 **10+ undergraduate and high school students while working in the [Functional Macromolecular Laboratory](http://fml.umd.edu/)**
 <br/>
